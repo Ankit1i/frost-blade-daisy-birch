@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Aether",
+      "hasCanvas": false,
+      "bodyTextLen": 1361,
+      "bodyTextHash": "35cfafc9af59df15218bb7760bfb418246fd10727e33c00187870e85f7595a22",
+      "bodyTextPrefix": "Aether Spatial watchlist Recommended Plan to Watch 0 Watching 0 ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/debug-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Aether",
+      "hasCanvas": false,
+      "bodyTextLen": 1328,
+      "bodyTextHash": "1ae62c78ce36d0f8fc9349896ef7660c6784b2f90e1c629ae7e7baa43afc1469",
+      "bodyTextPrefix": "Aether RECOMMENDED FOR YOU One Piece With his straw hat and ragt",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/debug-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/debug-preview.json"
+}

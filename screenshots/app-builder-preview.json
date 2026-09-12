@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Aether",
+      "hasCanvas": false,
+      "bodyTextLen": 120,
+      "bodyTextHash": "4f64014d35ea17bbe406355aed5be354583083f2ea4c6174eaff8d341f4b997f",
+      "bodyTextPrefix": "AETHER Dark glass watchlist For You Browse List Tap the mark in ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Aether",
+      "hasCanvas": false,
+      "bodyTextLen": 120,
+      "bodyTextHash": "4f64014d35ea17bbe406355aed5be354583083f2ea4c6174eaff8d341f4b997f",
+      "bodyTextPrefix": "AETHER Dark glass watchlist For You Browse List Tap the mark in ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
